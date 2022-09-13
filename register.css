@@ -65,6 +65,16 @@ form{
     outline: none;
 }
 
+select{
+    width: 320px;
+    height: 40px;
+    margin-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 1px solid #777;
+    border-radius: 14px;
+    outline: none;
+}
 .btn{
     border-radius: 20px;
     color: #fff;
